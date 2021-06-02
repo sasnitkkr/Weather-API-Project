@@ -1,0 +1,26 @@
+{
+  "name": "weather-api-project",
+  "version": "1.0.0",
+  "description": "My First API project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sasnitkkr/Weather-API-Project.git"
+  },
+  "keywords": [
+    "weather",
+    "api"
+  ],
+  "author": "Sahil Shende",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sasnitkkr/Weather-API-Project/issues"
+  },
+  "homepage": "https://github.com/sasnitkkr/Weather-API-Project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
